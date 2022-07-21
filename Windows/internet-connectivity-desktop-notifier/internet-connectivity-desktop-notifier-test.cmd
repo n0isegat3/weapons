@@ -1,0 +1,1 @@
+powershell.exe -executionpolicy unrestricted -sta -file .\internet-connectivity-desktop-notifier.ps1 -balloontiptimeout 5 -testinterval 10 -verbose
